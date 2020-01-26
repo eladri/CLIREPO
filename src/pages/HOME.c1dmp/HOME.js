@@ -8,6 +8,7 @@ $w.onReady(function () {
 	console.log('from local editor');
 
 	console.log('from new folder');
+	console.log('another log');
 	
 
 });
