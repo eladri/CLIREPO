@@ -13,4 +13,6 @@ $w.onReady(function () {
 	console.log('another log 30 1');
 	
 
+	console.log('from Elad Folder');
+
 });
