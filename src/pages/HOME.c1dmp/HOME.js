@@ -14,5 +14,5 @@ $w.onReady(function () {
 	
 
 	console.log('from Elad Folder');
-
+	console.log('from new elad folder')
 });
