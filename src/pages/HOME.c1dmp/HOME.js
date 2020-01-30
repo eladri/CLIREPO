@@ -9,6 +9,8 @@ $w.onReady(function () {
 
 	console.log('from new folder');
 	console.log('another log');
+
+	console.log('another log 30 1');
 	
 
 });
