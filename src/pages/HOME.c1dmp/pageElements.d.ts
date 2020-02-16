@@ -4,6 +4,7 @@ type PageElementsMap = {
   "#text3": $w.Text;
   "#repeater1": $w.Repeater;
   "#button2": $w.Button;
+  "#text4": $w.Text;
   "#container1": $w.Container;
   "#text1": $w.Text;
   "#text2": $w.Text;
